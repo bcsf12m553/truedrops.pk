@@ -10,3 +10,15 @@ c:\users\ahmad\documents\visual studio 2012\Projects\truedrops.pk\truedrops.pk\b
 c:\users\ahmad\documents\visual studio 2012\Projects\truedrops.pk\truedrops.pk\obj\Debug\truedrops.pk.csprojResolveAssemblyReference.cache
 c:\users\ahmad\documents\visual studio 2012\Projects\truedrops.pk\truedrops.pk\obj\Debug\truedrops.pk.dll
 c:\users\ahmad\documents\visual studio 2012\Projects\truedrops.pk\truedrops.pk\obj\Debug\truedrops.pk.pdb
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\truedrops.pk.dll
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\truedrops.pk.pdb
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\EntityFramework.xml
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\Newtonsoft.Json.xml
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\System.Web.Mvc.xml
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\System.Web.Razor.xml
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\System.Web.WebPages.xml
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\obj\Debug\truedrops.pk.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\obj\Debug\truedrops.pk.dll
+C:\Users\Ahmad\Documents\GitHub\truedrops.pk\truedrops.pk\obj\Debug\truedrops.pk.pdb
