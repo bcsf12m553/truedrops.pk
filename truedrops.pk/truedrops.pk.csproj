@@ -158,6 +158,9 @@
     <Content Include="css\main.css" />
     <Content Include="css\prettyPhoto.css" />
     <Content Include="css\responsive.css" />
+    <Content Include="images\home\0.5litre.png" />
+    <Content Include="images\home\1.5litre.png" />
+    <Content Include="images\home\19litre.png" />
     <Content Include="images\home\slider\slogon.png" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
